@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "custom_LM380_footprint")(type "KiCad")(uri "${KIPRJMOD}/custom_LM380_footprint.pretty")(options "")(descr ""))
+  (lib (name "logo_folder")(type "KiCad")(uri "C:/Users/HP/OneDrive/Desktop/KICAD_LM380_amplifier/logo_folder.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,19 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 801b59cd-eac5-4edb-b603-1607503376be)
+
+  (paper "A4")
+
+  (title_block
+    (title "lm380_v2")
+    (date "2023-05-05")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
